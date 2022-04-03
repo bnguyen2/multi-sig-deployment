@@ -8,11 +8,6 @@ https://gnosis-safe.io/app/rin:0xc20Dfc0eb8E64868c185FE1E6Bcc66Baf342898B/transa
 - Name of function called `buyTokens` from ICO contract
   Internal transactions shows here: https://rinkeby.etherscan.io/address/0x4296DF2b16B5890CA82E5a76a02F302a4C41499A#internaltx
 
-## Teammates
-
-- vip
-- matricksdecoder
-
 ## Design Exercise
 
 - Consider and write down the positive and negative tradeoffs of the following configurations for a multisig wallet. In particular, consider how each configuration handles the common failure modes of wallet security
